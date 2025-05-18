@@ -7,7 +7,7 @@ using namespace std;
 
 class LoginFailedException : public exception {
     public:
-    const char* what() const noexcept override {
+    char* what() {
         return "Username or password incorrect. Please contact the admin office.";
     }
 };
