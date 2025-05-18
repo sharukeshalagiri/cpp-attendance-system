@@ -1,0 +1,11 @@
+--- Attendance Report ---
+Faculty: sharukesh
+Subject: Object Oriented Programming
+Department: CT
+Batch: 1
+
+    Roll           Name      Attendance %
+2024503513            Ram             71.79%  <-- Reappear Required
+2024503514          Jason             85.90%
+2024503515         Rubert            100.00%
+2024503516            Sam             42.31%  <-- Reappear Required
